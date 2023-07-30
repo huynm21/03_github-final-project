@@ -1,4 +1,5 @@
 # github-final-project
+This is the final project's Huy Nguyễn Mai in "Getting started Git and GitHub" course
 
 ## update
 ```bash
@@ -12,10 +13,10 @@ Output
 ``` 
 
 ## Some links helpful for editing readme.md 
-- Github README: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-- Make a README : https://www.makeareadme.com/
-- Awesome README : https://github.com/matiassingers/awesome-readme
+- [Github README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [Make a README](https://www.makeareadme.com/)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ```bash
-## This is the final project's Huy Nguyễn Mai in "Getting started Git and GitHub" course
+## 
 ```
